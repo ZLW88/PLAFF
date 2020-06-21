@@ -1,0 +1,110 @@
+header {
+    width: 1400px;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    background-color: black;
+    height: 50px;
+}
+body{
+    background-color:rgb(107, 88, 102);
+}
+#logo {
+    float: left;
+    position: absolute;
+}
+
+#homelogo {
+    width: 50px;
+    height: 50px;
+}
+
+#headerleft {
+    float: left;
+    padding-left: 50px;
+}
+
+#headerleft ul {
+    margin: 0px;
+    padding: 0px;
+    line-height: 49px;
+    overflow: hidden;
+}
+
+#headerleft ul li {
+    height: 100%;
+    font-size: 15px;
+    padding: 0px 30px;
+    font-weight: bold;
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#headerleft ul li a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+}
+
+#headerright {
+    float: right;
+    position: relative;
+    padding-right: 50px;
+    height: 70px;
+}
+
+#headerright ul {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    line-height: 49px;
+    padding-right: 40px;
+}
+
+#headerright ul li {
+    position: relative;
+    padding-left: 10px;
+}
+
+#headerright ul li ul {
+    display: none;
+    position: absolute;
+    width: 95px;
+    background-color: black;
+    text-align: left;
+}
+
+#headerright ul li ul li {
+    width: 100%;
+    color: white;
+}
+
+#headerright ul a ul {
+    padding-bottom: 20px;
+}
+
+#headerright ul:hover ul {
+    display: block;
+}
+
+ul li:hover {
+    color: white;
+    background: rgb(122, 120, 120);
+}
+
+strong {
+    color: white;
+}
+
+a {
+    letter-spacing: 1.2px;
+    text-decoration: none;
+}
+
+.smalllogo {
+    width: 10px;
+}

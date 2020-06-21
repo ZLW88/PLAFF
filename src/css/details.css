@@ -1,0 +1,55 @@
+footer{
+    padding-left: 600px;
+}
+#maindetails{
+    width: 1300px;
+    border: solid;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#maintitle{ 
+    border-bottom: solid;
+}
+#imagetitle{
+    text-align: center;
+    padding-top: 30px;
+}
+#imagetitle span{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+#maindiv{
+    margin-top: 60px;
+    height: 400px;
+}
+#detailimg{
+    width: 300px;
+    height: 300px;
+    padding-left: 50px;
+}
+#detailinfo{
+    float: right;
+    padding-right: 100px;
+}
+table{
+    border: solid;
+    width: 400px;
+}
+table tr td{
+    border: solid;
+}
+
+#liketable{
+    margin-top: 40px;
+}
+#detailtable{
+    margin-top:20px;
+}
+.titletd{
+    background-color: rgb(107, 88, 102);
+    font-weight: bold;
+}
+#likeimg{
+    width: 400px;
+}

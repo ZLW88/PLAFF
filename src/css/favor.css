@@ -1,0 +1,33 @@
+#favordiv{
+    width: 1300px;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: solid 2px;
+}
+.detailsword{
+    float: right;
+    width: 900px;
+    padding-top: 30px;
+    padding-right: 50px;
+    
+}
+.imagediv{
+    height: 200px;
+    border: solid 1px;
+}
+.favorimage{
+    float: left;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+input{
+    color: red;
+    border-radius: 3px;
+}
+#numberfooter{
+    text-align: center;
+}
+footer{
+    padding-left: 600px;
+}

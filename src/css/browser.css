@@ -1,0 +1,98 @@
+#browserli{
+    background-color: rgb(122, 120, 120);
+}
+#searchdiv{
+    background-color: #807d7d;
+    width: 178px; 
+    border: solid 1px;
+}
+#searchdiv h4{
+    padding-left: 20px;
+}
+#searchdiv input{
+    border: none;
+    border-right: solid 1px;
+    border-top: solid 1px;
+    height: 30px;
+}
+#searchdiv img{
+    width: 20px;
+    border-top: solid 1px;
+}
+#hotcontent{
+    background-color: #807d7d;
+    width: 178px;
+    margin-top: 30px;
+    border: solid 1px;
+    display: grid;
+}
+#hotcontent h4{
+    border-bottom: solid 1px;
+    padding-left: 20px;
+}
+#hotcontent a{
+    border-bottom: solid 1px;
+    padding-left: 20px;
+}
+#hotcountry{
+    background-color: #807d7d;
+    width: 178px;
+    margin-top: 30px;
+    border: solid 1px;
+    display: grid;
+}
+#hotcountry h4{
+    border-bottom: solid 1px;
+    padding-left: 20px;
+}
+#hotcountry a{
+    border-bottom: solid 1px;
+    padding-left: 20px;
+}
+#button{
+    width: 100px;
+}
+#side{
+    float: left;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 80px;
+}
+#side a{
+    text-decoration: none;
+    list-style-type: none;
+
+}
+#side a:hover{
+    background-color: red;
+    color: brown;
+}
+#main{
+    margin-top: 50px;
+}
+#require{
+    margin-bottom: 20px;
+}
+select{
+    width: 150px;
+    height: 30px;
+}
+footer{
+    padding-left: 45%;
+    bottom: 8px;
+    position: fixed;
+}
+#picture{
+    display: grid;
+    grid-template-columns:repeat(4,200px);
+    grid-template-rows:repeat(4,200px);
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+
+}
+#picture img{
+    height: 150px;
+    width: 150px;
+    border: 5px solid rgba(180, 156, 45, 0.23);
+}

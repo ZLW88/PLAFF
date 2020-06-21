@@ -1,0 +1,43 @@
+footer{
+    padding-left: 600px;
+}
+#maindiv{
+    width: 1300px;
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    border: solid 1px;
+    border-radius: 5px;
+}
+.textinput{
+    width: 1200px;
+    border-radius: 2px;
+}
+#contain{
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.upload{
+    text-align: center;
+}
+.upload img{
+    width: 400px;
+    height: 400px;
+    
+}
+#uploadimage{
+    text-align: center;
+    height: 100px;
+}
+#formdiv{
+    padding-top: 20px;
+}
+.button{
+    background-color: rgb(129, 129, 125);
+    width: 100px;
+    height: 30px;
+}
+h3{
+    border-bottom: solid 1px;
+}
